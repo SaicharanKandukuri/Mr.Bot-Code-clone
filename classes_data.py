@@ -6,17 +6,17 @@ monday='''\
 
 ` CSE 6b [WS/EC (DB)] ` https://meet.google.com/vip-awud-uou
 
-` CSE 6c [BEE (URP)] `  https://meet.google.com/hnv-cgve-bwd?authuser=2
+` CSE 6c [BME (URP)] `  https://meet.google.com/hnv-cgve-bwd?authuser=2
 ``` [From 11:30am to 12:15pm] ```
 ```css
 ***[RECESS]***
 ```
-``` [From 12:30am to 1:15pm] ```
+``` [From 12:15am to 1:15pm] ```
 ```css
 ***[LIBRARY]***
 ```
 ``` [From 1:15am to 2:15pm] ```
-` CSE 6 [BEE (URP)] ` https://meet.google.com/imb-kbfe-mzn
+` CSE 6 [EME (NS)] ` https://meet.google.com/imb-kbfe-mzn
 ```
 [From 2:15pm to 2:30pm]
 ```
@@ -59,7 +59,7 @@ tuesday = '''\
 `CSE 6 [ICT (NPP)]`  https://meet.google.com/rcd-jnzi-znj
 '''
 wednesday = """\
-> Classes on `tuesday` [CSE 06]
+> Classes on `wednesday` [CSE 06]
 
 ``` [From 9:30am to 10:30am] ```
 ` CSE 6 [MATHS (TS)] ` https://meet.google.com/ahs-zexz-inp
@@ -87,7 +87,7 @@ wednesday = """\
 """
 
 thursday = """\
-> Classes on `tuesday` [CSE 06]
+> Classes on `thursday` [CSE 06]
 
 ``` [From 9:30am to 10:30am] ```
 `CSE 6 [ICT (NPP)]`  https://meet.google.com/rcd-jnzi-znj
@@ -113,11 +113,12 @@ thursday = """\
 ```
 ``` [From 2:30pm to 4:30pm] ```
 `CSE 6a [CS (AB)] ` https://meet.google.com/bse-kevb-cdf
-`CSE 6b [MATHS_TUTO (TS)] ` https://meet.google.com/ahs-zexz-inp
+`CSE 6b [MATHS_TUTO (RB)] ` https://meet.google.com/ymc-ytbw-jym
 
 """
 
 friday = """\
+Classes on `Friday` For CSE-06
 ``` [From 9:30am to 10:30am] ```
 ```css
 ***[LIBRARY]***
@@ -128,7 +129,7 @@ friday = """\
 ```css
 ***[RECESS]***
 ```
-``` [From 12:30am to 1:15pm] ```
+``` [From 12:15am to 1:15pm] ```
 ` CSE 6 [MATHS (TS)] ` https://meet.google.com/ahs-zexz-inp
 ``` [From 1:15am to 2:15pm] ```
 `CSE 6 [ICT (NPP)]`  https://meet.google.com/rcd-jnzi-znj
@@ -141,7 +142,7 @@ friday = """\
 ```
 [From 2:30pm to 4:30pm]
 ```
-`CSE 6a [BEE (AB)] ` https://meet.google.com/hnv-cgve-bwd?hs=122&authuser=2
+`CSE 6a [BEE (BMS)] ` https://meet.google.com/hnv-cgve-bwd
 `CSE 6b [EME (NR)] ` https://meet.google.com/maj-iuwb-wwd
 `CSE 6c [WS/EC (L4)] ` https://meet.google.com/kvu-upcc-ejm
 
