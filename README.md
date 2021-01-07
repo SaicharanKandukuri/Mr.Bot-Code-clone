@@ -1,2 +1,2 @@
 # Mr.Bot-Code-clone
-This is the code of a discord server bot 
+A simple Bot made to display timetable when `$<dayname in lowercase>` invoked
